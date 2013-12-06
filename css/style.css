@@ -753,7 +753,7 @@ a.servc_block {
 .img_block .portf_img {
 	position:absolute;
 	left:18px;
-	top:18px;
+	top:48px;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
