@@ -392,7 +392,7 @@ ul.tweets li a:hover {text-decoration:underline;
 /* ____________________________________ Slide 4 ____________________________________ */ 
 
 #slide4 {
-	background:url(../images/slide4_bg.jpg) repeat left top;
+	background:url(../images/slide6_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
@@ -586,7 +586,7 @@ a.servc_block {
 
 /* ____________________________________ Slide 8 ____________________________________ */ 
 #slide8 {
-	background:url(../images/slide8_bg.jpg) repeat left top;
+	background:url(../images/slide6_bg.jpg) repeat left top;
 	width:100%;
 	padding:86px 0 69px;
 }
@@ -779,7 +779,7 @@ a.servc_block {
 /* ____________________________________ Slide 12 ____________________________________ */
 
 #slide12 {
-	background:url(../images/slide12_bg.jpg) repeat left top;
+	background:url(../images/slide6_bg.jpg) repeat left top;
 	background-position:0 0 !important;
 	width:100%;
 	padding:86px 0 69px;
