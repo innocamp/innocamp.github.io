@@ -101,22 +101,22 @@ ul.navigation {
 	transition: 0.5s ease-in-out;
 }
 .navigation li:nth-child(1):hover ~ .effect {
-	left: 0; /* середина первого <a> */
+	left: 0; /* Г±ГҐГ°ГҐГ¤ГЁГ­Г  ГЇГҐГ°ГўГ®ГЈГ® <a> */
 }
 .navigation li:nth-child(2):hover ~ .effect {
-	left: 128px;  /* середина второго <a> */
+	left: 128px;  /* Г±ГҐГ°ГҐГ¤ГЁГ­Г  ГўГІГ®Г°Г®ГЈГ® <a> */
 }
 .navigation li:nth-child(3):hover ~ .effect {
-	left: 256px; /* середина третьего <a> */
+	left: 256px; /* Г±ГҐГ°ГҐГ¤ГЁГ­Г  ГІГ°ГҐГІГјГҐГЈГ® <a> */
 }
 .navigation li:nth-child(4):hover ~ .effect {
-	left: 384px; /* середина четвертого <a> */
+	left: 384px; /* Г±ГҐГ°ГҐГ¤ГЁГ­Г  Г·ГҐГІГўГҐГ°ГІГ®ГЈГ® <a> */
 }
 .navigation li:nth-child(5):hover ~ .effect {
-	left: 512px; /* середина четвертого <a> */
+	left: 512px; /* Г±ГҐГ°ГҐГ¤ГЁГ­Г  Г·ГҐГІГўГҐГ°ГІГ®ГЈГ® <a> */
 }
 .navigation li:nth-child(6):hover ~ .effect {
-	left: 640px; /* середина четвертого <a> */
+	left: 640px; /* Г±ГҐГ°ГҐГ¤ГЁГ­Г  Г·ГҐГІГўГҐГ°ГІГ®ГЈГ® <a> */
 }
 
 .ph-line-nav .effect {
@@ -277,6 +277,27 @@ img.icon_img {
 	text-shadow:5px 3px 6px rgba(0,0,0,0.26);
 }
 
+#slide1 li {
+	font-family: 'Open Sans', sans-serif;
+
+	font-size: 18px;
+	color:#ffffff;
+	text-decoration: blink;
+	text-align:left;
+	margin-top: 5px;
+	padding:0 10px;
+	text-shadow:5px 3px 6px rgba(0,0,0,0.26);
+}
+
+#slide1 .target {
+	margin-left: 270px;
+	margin-right: 200px;
+	text-align: left;
+	color: #ff0000;
+	background-color:#555555;
+
+}
+
 #slide1 p {
 	float:none;
 	display:block;
@@ -285,14 +306,14 @@ img.icon_img {
 	padding:0;
 	text-align:center;
 	text-transform:none;
-	
 	font-family: 'Verdana', sans-serif;
 	font-size: 24px;
 	line-height: 46px;
-	color:#fff;
+	color:#ffff00;
 	font-weight:300;
 	text-shadow:5px 3px 6px rgba(0,0,0,0.26);
 }
+
 
 .slogan_text {
 	display:inline-block;
