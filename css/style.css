@@ -204,6 +204,19 @@ h4 {
 	color:#222;
 }
 
+h5 {
+	margin:0;
+	padding:0 0 15px;
+	text-transform:none;
+	text-align:left;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	font-size:24px;
+	font-style:normal;
+	line-height:36px;
+	color:#222;
+}
+
 img.icon_img {
 	float:left;
 	margin-right:20px;
@@ -481,6 +494,7 @@ a.servc_block {
 
 #slide6 h2 {color:#222;
 }
+
 
 /* ____________________ exhib_block ____________________ */
 .exhib_block {position:relative;}
