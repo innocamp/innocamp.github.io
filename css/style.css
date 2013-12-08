@@ -279,14 +279,11 @@ img.icon_img {
 
 #slide1 li {
 	font-family: 'Open Sans', sans-serif;
-
 	font-size: 18px;
-	color:#ffffff;
+	color:#cccccc;
 	text-decoration: blink;
 	text-align:left;
 	margin-top: 5px;
-	padding:0 10px;
-	text-shadow:5px 3px 6px rgba(0,0,0,0.26);
 }
 
 #slide1 .target {
@@ -294,8 +291,6 @@ img.icon_img {
 	margin-right: 200px;
 	text-align: left;
 	color: #ff0000;
-	background-color:#555555;
-
 }
 
 #slide1 p {
