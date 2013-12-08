@@ -277,22 +277,6 @@ img.icon_img {
 	text-shadow:5px 3px 6px rgba(0,0,0,0.26);
 }
 
-#slide1 li {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
-	color:#cccccc;
-	text-decoration: blink;
-	text-align:left;
-	margin-top: 5px;
-	margin-left: 270px;
-}
-
-#slide1 .target {
-	
-	margin-right: 200px;
-	text-align: left;
-	color: #ff0000;
-}
 
 #slide1 p {
 	float:none;
