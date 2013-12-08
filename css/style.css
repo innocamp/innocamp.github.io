@@ -284,10 +284,11 @@ img.icon_img {
 	text-decoration: blink;
 	text-align:left;
 	margin-top: 5px;
+	margin-left: 270px;
 }
 
 #slide1 .target {
-	margin-left: 270px;
+	
 	margin-right: 200px;
 	text-align: left;
 	color: #ff0000;
