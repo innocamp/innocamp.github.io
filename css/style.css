@@ -14,7 +14,7 @@ body {
 }
 ::-moz-selection {
 	background: #f14833; /* Firefox */
-	color:#fff;
+	color:#000000;
 }
 img {
 	max-width: 100%;
